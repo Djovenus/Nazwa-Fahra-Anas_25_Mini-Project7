@@ -1,0 +1,77 @@
+.body{
+  font-family: Times New Roman; 
+  background-color: #1E3E62;"
+}
+.header{
+  background-color: #FF6500; 
+  margin-right: 80px; 
+  margin-left: 80px;
+  color: white;"
+}
+.header h1{
+  text-align: center; 
+  font-size: 70px; 
+}
+#definisi{
+  font-size: 40px; 
+  background-color: white; 
+  margin-right: 80px; 
+  margin-left: 80px;
+}
+.h2{
+  font-size: 50px; 
+  color: black; 
+  background-color: white; 
+  margin-left: 3%;"
+}
+.p{
+  font-size: 40px; 
+  color: white; 
+  margin-left: 3%;"
+}
+.img{
+  height: 560px;
+  width: 430px;
+}
+.iframe{
+  width: 700;
+  height: 315;
+}
+.link{
+  color: white; 
+  margin-left: 3%; 
+  font-size: 30px;
+}
+.ST{
+  margin-right: 60%; 
+}
+.HP{
+  margin-right: 20%; 
+ }
+ .TLOTR{
+   margin-right: 25%; 
+ }
+ .N{
+   margin-right: 20%; 
+ }
+ .D{
+   margin-right: 78%; 
+ }
+ .judul{
+   color: white; 
+   font-size: 60px; 
+   text-align: center
+ }
+ .psynopsis{
+  color: white;
+  font-size: 50px; 
+  margin-left: 50px;
+  margin-right: 50px;
+ }
+ .iframe{
+   width: 900px;
+   height: 500px;
+   margin-left: 300px;
+   margin-right: 100px;
+   box-shadow: 20px 15px 70px white;
+ }
